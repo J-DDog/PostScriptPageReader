@@ -1,0 +1,7 @@
+﻿  FileHandler.cpp
+C:\Users\Jkerr123\source\repos\PostScriptPageReader\PostScriptPageReader\FileHandler.cpp(5,20): warning C4018:  '<': signed/unsigned mismatch
+  ItemPair.cpp
+  PostScriptPageReader.cpp
+  Generating Code...
+C:\Users\Jkerr123\source\repos\PostScriptPageReader\PostScriptPageReader\FileHandler.cpp(28,20): warning C4018:  '<': signed/unsigned mismatch
+  PostScriptPageReader.vcxproj -> C:\Users\Jkerr123\source\repos\PostScriptPageReader\Debug\PostScriptPageReader.exe
